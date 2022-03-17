@@ -1,0 +1,15 @@
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\bin\Debug\net6.0\Retangulo.exe
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\bin\Debug\net6.0\Retangulo.deps.json
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\bin\Debug\net6.0\Retangulo.runtimeconfig.json
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\bin\Debug\net6.0\Retangulo.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\bin\Debug\net6.0\ref\Retangulo.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\bin\Debug\net6.0\Retangulo.pdb
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.csproj.AssemblyReference.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfoInputs.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.AssemblyInfo.cs
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\obj\Debug\net6.0\ref\Retangulo.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.pdb
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Retangulo\Retangulo\obj\Debug\net6.0\Retangulo.genruntimeconfig.cache

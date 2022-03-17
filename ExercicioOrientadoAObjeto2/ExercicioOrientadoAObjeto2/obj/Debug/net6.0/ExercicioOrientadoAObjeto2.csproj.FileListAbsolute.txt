@@ -1,0 +1,15 @@
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\bin\Debug\net6.0\ExercicioOrientadoAObjeto2.exe
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\bin\Debug\net6.0\ExercicioOrientadoAObjeto2.deps.json
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\bin\Debug\net6.0\ExercicioOrientadoAObjeto2.runtimeconfig.json
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\bin\Debug\net6.0\ExercicioOrientadoAObjeto2.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\bin\Debug\net6.0\ref\ExercicioOrientadoAObjeto2.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\bin\Debug\net6.0\ExercicioOrientadoAObjeto2.pdb
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\obj\Debug\net6.0\ExercicioOrientadoAObjeto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\obj\Debug\net6.0\ExercicioOrientadoAObjeto2.AssemblyInfoInputs.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\obj\Debug\net6.0\ExercicioOrientadoAObjeto2.AssemblyInfo.cs
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\obj\Debug\net6.0\ExercicioOrientadoAObjeto2.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\obj\Debug\net6.0\ExercicioOrientadoAObjeto2.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\obj\Debug\net6.0\ref\ExercicioOrientadoAObjeto2.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\obj\Debug\net6.0\ExercicioOrientadoAObjeto2.pdb
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\obj\Debug\net6.0\ExercicioOrientadoAObjeto2.genruntimeconfig.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\ExercicioOrientadoAObjeto2\obj\Debug\net6.0\ExercicioOrientadoAObjeto2.csproj.AssemblyReference.cache

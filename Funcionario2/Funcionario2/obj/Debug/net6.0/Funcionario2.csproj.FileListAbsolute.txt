@@ -1,0 +1,15 @@
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\bin\Debug\net6.0\Funcionario2.exe
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\bin\Debug\net6.0\Funcionario2.deps.json
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\bin\Debug\net6.0\Funcionario2.runtimeconfig.json
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\bin\Debug\net6.0\Funcionario2.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\bin\Debug\net6.0\ref\Funcionario2.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\bin\Debug\net6.0\Funcionario2.pdb
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\obj\Debug\net6.0\Funcionario2.csproj.AssemblyReference.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\obj\Debug\net6.0\Funcionario2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\obj\Debug\net6.0\Funcionario2.AssemblyInfoInputs.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\obj\Debug\net6.0\Funcionario2.AssemblyInfo.cs
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\obj\Debug\net6.0\Funcionario2.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\obj\Debug\net6.0\Funcionario2.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\obj\Debug\net6.0\ref\Funcionario2.dll
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\obj\Debug\net6.0\Funcionario2.pdb
+D:\Projetos C#\Orientado a objeto - primeiros exercicios\ExercicioOrientadoAObjeto2\Funcionario2\Funcionario2\obj\Debug\net6.0\Funcionario2.genruntimeconfig.cache
